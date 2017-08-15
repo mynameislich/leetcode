@@ -50,9 +50,9 @@ public class ZigZag {
         }
         return result;
     }
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ZigZag temp = new ZigZag();
         String s = temp.convert("ABC", 2);
         System.out.println(s);
-    }
+    }*/
 }
