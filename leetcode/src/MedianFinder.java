@@ -71,7 +71,7 @@ public class MedianFinder {
         return result;
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ArrayList nums1 = new ArrayList();
         ArrayList nums2 = new ArrayList();
         nums1.add(3);
@@ -92,5 +92,5 @@ public class MedianFinder {
 
         System.out.println(result);
 
-    }
+    }*/
 }
