@@ -92,9 +92,9 @@ public class String2Int {
         return result;
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         String2Int temp = new String2Int();
         int n = temp.myAtoi("+");
         System.out.println(n);
-    }
+    }*/
 }

@@ -49,9 +49,9 @@ public class ReverseInteger {
         return result;
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         ReverseInteger temp = new ReverseInteger();
         int n = temp.reverse(964632435);
         System.out.println(Math.pow(2, 31));
-    }
+    }*/
 }
