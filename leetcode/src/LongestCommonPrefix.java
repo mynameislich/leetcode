@@ -43,10 +43,10 @@ public class LongestCommonPrefix {
         return result;
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         LongestCommonPrefix temp = new LongestCommonPrefix();
         //["babb","caa"]
         String[] strs = {"babb", "caa"};
         temp.findLCP(strs);
-    }
+    }*/
 }
