@@ -48,8 +48,8 @@ public class PalindromeNum {
         return result;
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         PalindromeNum temp = new PalindromeNum();
         boolean ans = temp.isPalindrome(1000021);
-    }
+    }*/
 }
